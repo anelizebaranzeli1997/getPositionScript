@@ -77,6 +77,3 @@ if __name__ == '__main__':
             b = a+1 
 
     output_file.close()
-
-   
-print """
